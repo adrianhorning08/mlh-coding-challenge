@@ -9,9 +9,9 @@ Covert this design into a webpage
 ![alt text](/mockup.png)
 
 ## Implementation
-* Created the HTML structure. The red area I called a header. The user profile and about me are a section called `user-profile-container`.
-* To get the user profile section to overlap with the header I used a negative margin for the top of the `user-profile-container`.
-* The social profile names and the list of skills are list items.
+* Created the HTML structure. The red area I called a header. The user profile and about me are a section called `user-profile-container`
+* To get the user profile section to overlap with the header I used a negative margin for the top of the `user-profile-container`
+* The social profile names and the list of skills are list items
 
 ## FYI's
 * I don't have Sketch so couldn't access that folder (if there were any assets there)
