@@ -40,6 +40,14 @@ img {
 .user-name-box {
   font-weight: 600;
   letter-spacing: 0.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.user-name-box > p {
+  font-size: 16px;
+  font-weight: 400;
 }
 
 .header-ul {
@@ -52,8 +60,9 @@ img {
 }
 
 .fa-suitcase {
-  margin-right: 5px;
+  margin-right: 10px;
 }
+
 
 .user-profile-container {
   width: 100%;
