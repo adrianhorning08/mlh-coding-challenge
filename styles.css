@@ -14,6 +14,7 @@ h1 {
   font-weight: 600;
 }
 
+/* Header */
 header {
   height: 200px;
   background: #e54e53;
@@ -29,12 +30,6 @@ nav {
   flex-direction: row;
   justify-content: space-between;
   margin-top: 20px;
-}
-
-img {
-  height: auto;
-  max-width: 100%;
-  border-radius: 5px;
 }
 
 .user-name-box {
@@ -63,7 +58,7 @@ img {
   margin-right: 10px;
 }
 
-
+/* User Porfile section */
 .user-profile-container {
   width: 100%;
   height: auto;
@@ -84,6 +79,12 @@ img {
   height: 500px;
 }
 
+.user-pic > img {
+  height: auto;
+  max-width: 100%;
+  border-radius: 5px;
+}
+
 .about-me-section {
   height: 300px;
   width: 1000px;
@@ -102,21 +103,18 @@ img {
 .about-me-blurb {
   margin-top: 15px;
   letter-spacing: 0.6px;
+  line-height: 1.5;
 }
 
-.about-me-blurb {
-  line-height: 1.5;
+.skills-section {
+  display: flex;
+  margin: auto 0;
 }
 
 .skills-list {
   display: flex;
   flex-direction: row;
   margin-bottom: 10px;
-}
-
-.skills-section {
-  display: flex;
-  margin: auto 0;
 }
 
 .skills-list > li {
