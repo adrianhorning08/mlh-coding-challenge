@@ -17,4 +17,4 @@ Covert this design into a webpage
 * I don't have Sketch so couldn't access that folder (if there were any assets there)
 * The picture dimensions I used look a little narrower than the one was used in the example
 * I wasn't sure what font to use, so got one from google fonts that looked pretty close (Source Sans Pro)
-* Didn't have access to the briefcase icon (if there was one available), so used an icon from Font Awesome
+* Used a briefcase icon from Font Awesome
